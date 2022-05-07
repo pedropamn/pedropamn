@@ -1,9 +1,15 @@
  # 👋 Olá, eu sou Pedro Neto 
- ## Desenvolvdor Web, Mobile & Windows
+ ## Desenvolvedor Web, Mobile & Windows
+ Autodidata, entusiasta em desenvolvimento web, mobile, desktop e marketing digital
  
  
  <table> 
     <thead>
+     <tr>
+      <th colspan=5>
+       Habilidades
+      </th>
+     </tr>
       <tr>
        <th>Front-End</th>
        <th>Backend</th>
@@ -24,8 +30,8 @@
    
    <tr>
      <td><img valign="middle" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="30" height="30" /> CSS3</td>
-     <td></td>
-     <td><img valign="middle" src="https://agetintopc.com/wp-content/uploads2/2021/01/Qt-Creator-Free-Download.png.webp" width="30" height="30" /> PYQT5</td>
+     <td><img valign="middle" src="https://www.rodrigocalado.com.br/wp-content/uploads/2015/11/MySQL.svg_.png" width="30" height="30" /> MySQL</td>
+     <td><img valign="middle" src="https://agetintopc.com/wp-content/uploads2/2021/01/Qt-Creator-Free-Download.png.webp" width="30" height="30" /> PyQt5</td>
      <td><img valign="middle" src="https://miro.medium.com/max/512/1*qaDcl89dJyfbjNulnnFTHQ.png" width="30" height="30" /> FRAMEWORK7</td>
     <td><img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="30" height="30" /> WINDOWS</td>
    </tr>
@@ -58,8 +64,19 @@
  </table>
 
 
+ # 👋 Projetos
+
+<img width="400" height="400" valign="middle" src="https://github.com/pedropamn/simplecrypt/raw/main/screen-simplecrypt.png?raw=true" /> <img width="30" height="30" src="https://github.com/pedropamn/simplecrypt/blob/main/padlock.ico" /> **SimpleCrypt** - Criptografe seus arquivos com senha
 
 
+
+
+      
+      
+
+ 
+
+ 
 
 
  
