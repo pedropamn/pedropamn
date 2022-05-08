@@ -72,7 +72,8 @@
   
  <img valign="middle" src="https://www.fepe.org.br/portal/wp-content/uploads/2021/03/cloud-icone-downloads.png" width="30" height="30" /> <b>[PHP Downloader](https://github.com/pedropamn/PHP-Downloader/)</b> - Baixe qualquer arquivo através de um script PHP, com suporte a Instagram e Youtube | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="30" height="30" /> <img valign="middle" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="30" height="30" /><img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
  
-
+ <img valign="middle" src="https://i.pinimg.com/originals/33/ca/57/33ca5738c2f2933f78ebe15b04a9ec9d.png" width="30" height="30" /> <b>[Wi-fi Hotspot](https://github.com/pedropamn/PHP-Downloader/)</b> - Crie um ponto de acesso Wi-fi com seu PC/Notebook | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="30" height="30" /> <img valign="middle" src="http://cdn.onlinewebfonts.com/svg/img_20148.png" width="30" height="30" />
+ 
  
 
 
