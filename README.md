@@ -64,13 +64,6 @@
  </table>
 
 
- # 👋 Projetos
-
-<img width="400" height="400" valign="middle" src="https://github.com/pedropamn/simplecrypt/raw/main/screen-simplecrypt.png?raw=true" /> <img width="30" height="30" src="https://github.com/pedropamn/simplecrypt/blob/main/padlock.ico" /> **SimpleCrypt** - Criptografe seus arquivos com senha
-
-
-
-
       
       
 
