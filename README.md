@@ -1,5 +1,5 @@
  # 👋 Olá, eu sou Pedro Neto 
- ## Desenvolvedor Web, Mobile & Windows
+ ## Desenvolvedor Web, Mobile & Desktop
  Autodidata, entusiasta em desenvolvimento web, mobile, desktop e marketing digital
  
  
