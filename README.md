@@ -43,7 +43,7 @@
      <td><img valign="middle" src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="30" height="30" /> JS</td>
      <td></td>
      <td></td>
-     <td></td>
+     <td><img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30" /> TELEGRAM API</td>
     <td></td>
    </tr>
    
