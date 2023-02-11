@@ -76,7 +76,7 @@
  
  <img valign="middle" src="https://i.pinimg.com/originals/33/ca/57/33ca5738c2f2933f78ebe15b04a9ec9d.png" width="30" height="30" /> <b>[Wi-fi Hotspot](https://github.com/pedropamn/wifihotspot/)</b> - Crie um ponto de acesso Wi-fi com seu PC/Notebook | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="30" height="30" /> <img valign="middle" src="http://cdn.onlinewebfonts.com/svg/img_20148.png" width="30" height="30" />
       
-<img valign="middle" src="https://github.com/pedropamn/The-Polite-Bot/blob/main/thepolitebot.jpg?raw=true" width="30" height="30" /> <b>[The Polite Bot]([http://t.me/thepolite_bot](https://github.com/pedropamn/ThePoliteBot))</b> - Edite mensagens mal educadas em grupos no Telegram automaticamente | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30" /> <img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
+<img valign="middle" src="https://github.com/pedropamn/The-Polite-Bot/blob/main/thepolitebot.jpg?raw=true" width="30" height="30" /> <b>[The Polite Bot](https://github.com/pedropamn/ThePoliteBot))</b> - Edite mensagens mal educadas em grupos no Telegram automaticamente | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30" /> <img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
  
 
  
