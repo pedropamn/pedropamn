@@ -62,6 +62,14 @@
      <td></td>
     <td></td>
    </tr>
+      
+   <tr>
+     <td><img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="30" height="30" /> Wordpress</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    <td></td>
+   </tr>
    
   </tbody>
  </table>
