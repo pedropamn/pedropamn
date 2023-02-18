@@ -3,7 +3,7 @@
  Autodidata, entusiasta em desenvolvimento web, mobile, desktop e marketing digital
  
  
-  🔗 [https://www.pedronetoweb.com.br](https://www.pedronetoweb.com.br)
+  <a align="center" href="https://www.pedronetoweb.com.br"><img src="https://img.shields.io/badge/-pedronetoweb.com.br-blue?style=for-the-badge&logo=&logoColor=white" /></a>
  
  
  <table> 
