@@ -87,6 +87,8 @@
 <img valign="middle" src="https://github.com/pedropamn/The-Polite-Bot/blob/main/thepolitebot.jpg?raw=true" width="30" height="30" /> <b>[The Polite Bot](https://github.com/pedropamn/ThePoliteBot)</b> - Edite mensagens mal educadas em grupos no Telegram automaticamente | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30" /> <img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
       
 <img valign="middle" src="https://play-lh.googleusercontent.com/8HfvqGBIakgUdVCT0If-9Q02VJJTmBgMcs8C95Kl6X8KF0mJIZabdm0i78QiwCs8lT8B=s180-rw" width="30" height="30" /> <b>[PomoClock](https://github.com/pedropamn/PomoClock)</b> - Timer Pomodoro para gerenciamento de tempo | <img valign="middle" src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png" width="30" height="30" /><img valign="middle" src="https://miro.medium.com/max/512/1*qaDcl89dJyfbjNulnnFTHQ.png" width="30" height="30" /> <img valign="middle" src="https://miro.medium.com/max/1024/1*TIYxj124ayE5gIo4jdIQ3w.png" width="30" height="30" /> 
+      
+<img valign="middle" src="https://play-lh.googleusercontent.com/xnCjUMZpme8Tg06m9tYT9hU7SA6JT3aBpeMx5ASnMKyG1uoajWUmMfB-jjo_gsXBiZE=w240-h480-rw" width="30" height="30" /> <b>[Ephemeral](https://play.google.com/store/apps/details?id=com.pedroneto.ephemeral&hl=pt_BR&gl=US)</b> - Compartilhe arquivos que só podem ser baixados uma vez | <img valign="middle" src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png" width="30" height="30" /><img valign="middle" src="https://miro.medium.com/max/512/1*qaDcl89dJyfbjNulnnFTHQ.png" width="30" height="30" /> <img valign="middle" src="https://miro.medium.com/max/1024/1*TIYxj124ayE5gIo4jdIQ3w.png" width="30" height="30" /> 
  
 
  
@@ -96,7 +98,7 @@
  <img valign="middle" src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" width="30" height="30" /> <b>[FastDANFE](https://fastdanfe.herokuapp.com/)</b> - Envie XML's e obtenha DANFE's em PDF! | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30" height="30" /><img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
  
  
-   <img valign="middle" src="https://play-lh.googleusercontent.com/xnCjUMZpme8Tg06m9tYT9hU7SA6JT3aBpeMx5ASnMKyG1uoajWUmMfB-jjo_gsXBiZE=w240-h480-rw" width="30" height="30" /> <b>[Ephemeral](https://play.google.com/store/apps/details?id=com.pedroneto.ephemeral&hl=pt_BR&gl=US)</b> - Compartilhe arquivos que só podem ser baixados uma vez | <img valign="middle" src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png" width="30" height="30" /><img valign="middle" src="https://miro.medium.com/max/512/1*qaDcl89dJyfbjNulnnFTHQ.png" width="30" height="30" /> <img valign="middle" src="https://miro.medium.com/max/1024/1*TIYxj124ayE5gIo4jdIQ3w.png" width="30" height="30" /> 
+
 
 
  
