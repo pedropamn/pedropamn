@@ -91,7 +91,8 @@
 <img valign="middle" src="https://play-lh.googleusercontent.com/xnCjUMZpme8Tg06m9tYT9hU7SA6JT3aBpeMx5ASnMKyG1uoajWUmMfB-jjo_gsXBiZE=w240-h480-rw" width="30" height="30" /> <b>[Ephemeral](https://github.com/pedropamn/Ephemeral)</b> - Compartilhe arquivos que só podem ser baixados uma vez | <img valign="middle" src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png" width="30" height="30" /><img valign="middle" src="https://miro.medium.com/max/512/1*qaDcl89dJyfbjNulnnFTHQ.png" width="30" height="30" /> <img valign="middle" src="https://miro.medium.com/max/1024/1*TIYxj124ayE5gIo4jdIQ3w.png" width="30" height="30" /> 
       
 <img valign="middle" src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" width="30" height="30" /> <b>[FastDANFE](https://github.com/pedropamn/fastdanfe)</b> - Envie XML's e obtenha DANFE's em PDF! | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30" height="30" /><img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
- 
+
+<img valign="middle" src="https://cdn-icons-png.flaticon.com/512/564/564619.png" width="30" height="30" /> <b>[Fui Exposto](https://github.com/pedropamn/fuiexposto)</b> - Bot para Telegram que checa se seu email esteve em algum vazamento de dados | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30" /> <img valign="middle" src="https://ajuda.hostnet.com.br/wp-content/uploads/2017/12/php-logo.png" width="30" height="30" />
 
   
 
