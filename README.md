@@ -96,7 +96,7 @@
       
 <img valign="middle" src="https://cantinhodabrantes.com.br/wp-content/uploads/2017/08/whatsapp-logo-PNG-Transparent.png" width="30" height="30" /> <b>[FastChat](https://github.com/pedropamn/fastchat)</b> - Envie uma mensagem no WhatsApp sem salvar o número | <img valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30" height="30" /><img valign="middle" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="30" height="30" /><img valign="middle" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="30" height="30" />
 
-<img valign="middle" src="https://raw.githubusercontent.com/pedropamn/hidewachats/main/wahide.png" width="60" /> <b>[WhatsApp Web Chats Hider](https://github.com/pedropamn/WhatsAppWebChatsHider)</b> - Esconda suas conversas do WhatsApp Web quando abrí-lo na frente de alguém | <img valign="middle" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="30" height="30" />
+<img valign="middle" src="https://raw.githubusercontent.com/pedropamn/WhatsAppWebChatsHider/main/wahide.png" width="30" /> <b>[WhatsApp Web Chats Hider](https://github.com/pedropamn/WhatsAppWebChatsHider)</b> - Esconda suas conversas do WhatsApp Web quando abrí-lo na frente de alguém | <img valign="middle" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="30" height="30" />
   
 
  
