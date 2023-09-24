@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Pedro Neto 
+ # 👋 Hi, I'm Pedro Neto
  ## Web, Mobile & Desktop Developer
  Self-taught, enthusiast in Web Development, Mobile, Desktop and Digital Marketing
  
@@ -12,7 +12,7 @@
     <thead>
      <tr>
       <th colspan=5>
-       Habilidades
+       Skills
       </th>
      </tr>
       <tr>
