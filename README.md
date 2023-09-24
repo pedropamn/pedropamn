@@ -6,7 +6,7 @@
   <a align="center" href="https://www.pedronetoweb.com.br"><img src="https://img.shields.io/badge/-pedronetoweb.com.br-blue?style=for-the-badge&logo=&logoColor=white" /></a><a href="#">
     <img src="https://komarev.com/ghpvc/?username=pedropamn&style=for-the-badge">
 </a>
-<a style="float:right;" href="https://www.buymeacoffee.com/pedropamn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a style="float:right;" href="https://www.buymeacoffee.com/pedropamn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
  
  
  <table> 
